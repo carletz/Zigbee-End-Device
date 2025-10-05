@@ -18,8 +18,7 @@ The aim of this project is to replicate the door/window contact and try to do it
 - **Reset button** for firmware or network reset  
 - Compact design suitable for enclosure integration  
 
-
-![3D_End Device_2025-10-05.png](//image.easyeda.com/pullimage/9kYOOcDmWQwm2hRkITe1WeykVnVZnbsLdwD8ipfL.png)
+![Render 1](Images/3D_End Device_2025-10-05.png)
 
 ---
 ## ⚠️ Notes
@@ -92,3 +91,4 @@ Special thanks to **PTVO** for providing the free and flexible **Zigbee firmware
 Created: October 2025  
 
 This project is open hardware, released under the MIT License.
+
