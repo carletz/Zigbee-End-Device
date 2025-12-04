@@ -1,16 +1,17 @@
-# Zigbee End Device (Contact Sensor)
+# Zigbee End Device V2 (Contact Sensor)
 
 This project is a **Zigbee End Device** designed to operate as a **battery-powered contact sensor** (for doors, windows, or similar applications).  
 It is based on the **Texas Instruments CC2530** Zigbee SoC and can be flashed with the **PTVO firmware** to provide full Zigbee functionality.
 
-The aim of this project is to replicate the door/window contact and try to do it as small as possible. This is my first attempt with 0402 components, easy and beautiful to design but extremely hard in the real life to solder. I've do my best! 🤣
+The aim of this project is to replicate the door/window contact and try to do it as small as possible. The first attempt was made with 0402 components, easy and beautiful to design but extremely hard in the real life to solder. This version is based on 0603 pieces which are "more easy" to prepare by hand.
+I've do my best! 🤣
 
-📂 [--&gt; My OshwLab repository of the project](https://https://oshwlab.com/carletz.slug/zigbee-end-device) 
+📂 [--&gt; My GitHub repository of the project](https://github.com/carletz/Zigbee-end-device) 
 ---
 
 ## 🧩 Features
 
-- Zigbee 3.0 compatible (using [PTVO firmware](https://ptvo.info/))
+- Zigbee 1.2 compatible (using [PTVO firmware](https://ptvo.info/))
 - Based on **CC2530F256** microcontroller  
 - Powered by a **CR2032 coin cell**
 - Integrated **reed switch** for contact detection  
@@ -18,14 +19,16 @@ The aim of this project is to replicate the door/window contact and try to do it
 - **Reset button** for firmware or network reset  
 - Compact design suitable for enclosure integration  
 
-![Render 1](Image/top.png)
-![Render 1](Image/bottom.png)
+
+
+
+![3D_End Device_2025-12-04.png](//image.easyeda.com/pullimage/BiyMu3E7ThyqbqfYprx18d5XNtc4JTJjq1RrC4kP.png)
+
 
 ---
 ## ⚠️ Notes
 - Pogo pins on the left are only for programming.
-- The X2 quartz is the one indicated on datasheet and is relative to the deep sleep calculationn of time, not used in my project because the event is triggered by the reed switch itself.
-- As for the quartz I've added also the base for an external antenna but I didn't use it.
+- I've added also the base for an external antenna but I didn't use it.
 ---
 
 ## 🛠️ Tools &amp; Compatibility
@@ -64,9 +67,11 @@ To upload the firmware to the CC2530, follow these steps:
    | `VCC` | `VCC` (3.3 V) |
    | `RESET_N` | `RESET` |
 
+Others test point applied are for eventually future implementations whit an optiona pull-up resistor.
+
 3. **Flashing procedure:**
    - Connect the programmer board to the Zigbee End Device board.
-   - Verify that the programmer board LED turns green (indicating correct connection).
+   - Verify that the programmer board LED turns red (indicating correct connection).
    - Open **SmartRF Flash Programmer**.
    - Select the connected device (**CC2530**).
    - Choose your `.hex` file.
@@ -82,19 +87,12 @@ To upload the firmware to the CC2530, follow these steps:
 ## 💡 Credits
 
 This project is inspired by and based on designs shared by **[DIY&amp;Zi](https://oshwlab.com/novgorod73/works)** on [OSHWHub / OSHWLab](https://oshwlab.com).  
-Special thanks to **PTVO** for providing the free and flexible **Zigbee firmware generator**.
+Special thanks to **PTVO** for providing a lot of informations for the tune of this board and flexible **Zigbee firmware generator**.
 
 ---
 
 ## 📬 Author
 
 **carletz**  
-Created: October 2025  
-
+Created: December 2025  
 This project is open hardware, released under the MIT License.
-
-
-
-
-
-
