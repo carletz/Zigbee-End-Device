@@ -6,7 +6,7 @@ It is based on the **Texas Instruments CC2530** Zigbee SoC and can be flashed wi
 The aim of this project is to replicate the door/window contact and try to do it as small as possible. The first attempt was made with 0402 components, easy and beautiful to design but extremely hard in the real life to solder. This version is based on 0603 pieces which are "more easy" to prepare by hand.
 I've do my best! 🤣
 
-📂 [--&gt; My GitHub repository of the project](https://github.com/carletz/Zigbee-end-device) 
+📂 [--&gt; My OshwLab repository of the project](https://https://oshwlab.com/carletz.slug/zigbee-end-device-V2) 
 ---
 
 ## 🧩 Features
@@ -22,7 +22,7 @@ I've do my best! 🤣
 
 
 
-![3D_End Device_2025-12-04.png](//image.easyeda.com/pullimage/BiyMu3E7ThyqbqfYprx18d5XNtc4JTJjq1RrC4kP.png)
+![Render 1](Image/top.png)
 
 
 ---
@@ -96,3 +96,4 @@ Special thanks to **PTVO** for providing a lot of informations for the tune of t
 **carletz**  
 Created: December 2025  
 This project is open hardware, released under the MIT License.
+
