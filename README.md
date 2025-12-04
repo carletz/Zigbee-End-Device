@@ -1,3 +1,6 @@
+# PROJECT UNDER REVISION! PLEASE WAIT FOR V. 2
+I'm facing some mistake on V.1 project, I hope to solve this with V.2 before the end of the year.
+
 # Zigbee End Device (Contact Sensor)
 
 This project is a **Zigbee End Device** designed to operate as a **battery-powered contact sensor** (for doors, windows, or similar applications).  
@@ -92,6 +95,7 @@ Special thanks to **PTVO** for providing the free and flexible **Zigbee firmware
 Created: October 2025  
 
 This project is open hardware, released under the MIT License.
+
 
 
 
