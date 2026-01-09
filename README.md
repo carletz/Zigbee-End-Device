@@ -24,7 +24,9 @@ Okay, okay... I've discovered hot water...  these are sensors that can be easily
 
 
 
-![Render 1](Image/top.png)
+![Render 1](Image/front.png)
+
+![Render 2](Image/retro.png)
 
 
 ---
@@ -104,5 +106,6 @@ Special thanks to **PTVO** for providing a lot of informations for the tune of t
 **carletz**  
 Created: January 2026
 This project is open hardware, released under the MIT License.
+
 
 
