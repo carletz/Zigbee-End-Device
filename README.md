@@ -9,6 +9,11 @@ I've do my best! 🤣
 Okay, okay... I've discovered hot water...  these are sensors that can be easily purchased off the shelf without too many problems, I know. The purpose of my work was simply to try to understand how they work and, consequently, their potential, starting with the oldest and most established chip on the market. It's not a major innovation, but it certainly helps us understand the possibilities ahead.
 
 📂 [--&gt; My OshwLab repository of the project](https://https://oshwlab.com/carletz.slug/zigbee-end-device-V2) 
+
+---
+## 🎥 Construction Video
+
+[![Watch the video](https://i9.ytimg.com/vi_webp/N2DPDZoxfj0/mq1.webp?sqp=CIiyicsG-oaymwEmCMACELQB8quKqQMa8AEB-AG-B4AC0AWKAgwIABABGBEgcigRMA8=&rs=AOn4CLB1nzgpKfsTLfo6DQRhMoUlkXrdDA)](https://youtu.be/N2DPDZoxfj0) 
 ---
 
 ## 🧩 Features
@@ -109,6 +114,7 @@ Special thanks to **PTVO** for providing a lot of informations for the tune of t
 **carletz**  
 Created: January 2026
 This project is open hardware, released under the MIT License.
+
 
 
 
