@@ -28,6 +28,9 @@ Okay, okay... I've discovered hot water...  these are sensors that can be easily
 
 ![Render 2](Image/retro.png)
 
+![Render 3](Image/Main.jpg)
+![Render 4](Image/Assembly.jpg)
+![Render 5](Image/Pinout.png)
 
 ---
 ## ⚠️ Notes
@@ -106,6 +109,7 @@ Special thanks to **PTVO** for providing a lot of informations for the tune of t
 **carletz**  
 Created: January 2026
 This project is open hardware, released under the MIT License.
+
 
 
 
