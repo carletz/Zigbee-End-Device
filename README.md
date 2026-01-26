@@ -8,7 +8,7 @@ I've do my best! 🤣
 
 Okay, okay... I've discovered hot water...  these are sensors that can be easily purchased off the shelf without too many problems, I know. The purpose of my work was simply to try to understand how they work and, consequently, their potential, starting with the oldest and most established chip on the market. It's not a major innovation, but it certainly helps us understand the possibilities ahead.
 
-📂 [--&gt; My OshwLab repository of the project](https://https://oshwlab.com/carletz.slug/zigbee-end-device-V21) 
+📂 [--&gt; My OshwLab repository of the project](https://oshwlab.com/carletz.slug/zigbee-end-device-V21) 
 
 ---
 ## 🎥 Construction Video
@@ -114,6 +114,7 @@ Special thanks to **PTVO** for providing a lot of informations for the tune of t
 **carletz**  
 Created: January 2026
 This project is open hardware, released under the MIT License.
+
 
 
 
